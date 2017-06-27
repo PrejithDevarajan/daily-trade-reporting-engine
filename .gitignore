@@ -1,0 +1,11 @@
+# Ignore all targets
+**/target/*
+
+# Package artifacts
+*.jar
+
+# Eclipse files
+.project
+.settings
+.settings/**
+.classpath
